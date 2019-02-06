@@ -1,1 +1,3 @@
 blá blá blá
+
+aqui está a alteração da versão 3.0
